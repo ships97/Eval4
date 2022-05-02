@@ -1,0 +1,30 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+#sidebar{
+    /* border: 1px solid red; */
+    width: 150px;
+    margin-left: 10px;
+}
+#sidebar>div{
+    height: 25px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid teal;
+    background-color: teal;
+}
+#sidebar h3{
+    margin-top: 8px;
+}
+#search_input{
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+    font-size: medium;
+}
+/* #in{
+    height: 25px;
+    width: 60px;
+    background-color: teal;
+} */
